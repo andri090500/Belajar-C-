@@ -1,2 +1,2 @@
-# Belajar-C-
+# Belajar-C++
 belajar c++ dasar
