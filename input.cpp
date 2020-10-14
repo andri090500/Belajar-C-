@@ -1,4 +1,5 @@
 #include<iostream>
+usingnamespace std;
 int main(){
 int b;
 cout << "Masukkan nilai: ";
